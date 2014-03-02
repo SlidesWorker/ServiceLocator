@@ -1,0 +1,33 @@
+{
+	"name" : "SlidesWorker/ServiceLocator",
+	"description" : "A basic ServiceLocator for PHP inspired by ZendFramework2",
+	"type" : "library",
+	"homepage" : "www.github.com/SlidesWorker/ServiceLocator",
+	"minimum-stability" : "RC",
+	"license" : "LGPL-3.0+",
+	"authors" : [{
+			"name" : "Clemens Sahs",
+			"email" : "clemens.sahs@slides-worker.org",
+			"role" : "developer"
+		}
+	],
+	"support" : {
+		"source" : "www.github.com/SlidesWorker/ServiceLocator/tree/master",
+		"issues" : "www.github.com/SlidesWorker/ServiceLocator/issues"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"SlidesWorker\\ServiceLocator" : "library/SlidesWorker/ServiceLocator"
+		}
+	},
+	"keywords" : [
+		"ServiceLocator",
+		"Factory"
+	],
+	"require" : {
+		"php" : ">=5.2.0"
+	},
+	"require-dev" : {
+		"satooshi/php-coveralls" : "dev-master"
+	}
+}
