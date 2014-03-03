@@ -1,5 +1,5 @@
 {
-	"name" : "SlidesWorker/ServiceLocator",
+	"name" : "slidesworker/servicelocator",
 	"description" : "A basic ServiceLocator for PHP inspired by ZendFramework2",
 	"type" : "library",
 	"homepage" : "http://www.github.com/SlidesWorker/ServiceLocator",
