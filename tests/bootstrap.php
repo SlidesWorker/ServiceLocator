@@ -5,7 +5,7 @@
 * distribution.
 */
 $rootDir        = realpath(dirname(__DIR__));
-$coreLibraryDir = "$rootDir/lib";
+$coreLibraryDir = "$rootDir/library";
 $coreTestsDir   = "$rootDir/tests";
 
 chdir($rootDir);
