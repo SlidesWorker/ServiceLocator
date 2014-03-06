@@ -2,8 +2,13 @@
 SlidesWorker - ServiceLocator
 =============================
 
+[![Latest Stable Version](https://poser.pugx.org/slidesworker/servicelocator/v/stable.png)](https://packagist.org/packages/slidesworker/servicelocator)
+
+
 [![Build Status](https://travis-ci.org/SlidesWorker/ServiceLocator.png?branch=master)](https://travis-ci.org/SlidesWorker/ServiceLocator)
-[![Coverage Status](https://coveralls.io/repos/SlidesWorker/ServiceLocator/badge.png)](https://coveralls.io/r/SlidesWorker/ServiceLocator)
+[![Code Coverage](https://scrutinizer-ci.com/g/SlidesWorker/ServiceLocator/badges/coverage.png?s=7d83e2b5c48283cf20366c0d5e4b2892cb7102e3)](https://scrutinizer-ci.com/g/SlidesWorker/ServiceLocator/)
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/SlidesWorker/ServiceLocator/badges/quality-score.png?s=8b5b1259f4e1f646f71028df60433980ed5ca12b)](https://scrutinizer-ci.com/g/SlidesWorker/ServiceLocator/)
+[![Dependency Status](https://www.versioneye.com/user/projects/531839a9ec13755bfa00063d/badge.png)](https://www.versioneye.com/user/projects/531839a9ec13755bfa00063d)
 
 
 How to use
