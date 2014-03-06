@@ -12,7 +12,7 @@ script:
 
 after_script:
  - php vendor/bin/coveralls -v
- - php ocular.phar code-coverage:upload --format=php-clover build/logs/clover.php
+ - php ocular.phar code-coverage:upload --format=php-clover build/logs/clover.xml
 
 notifications:
   email: false
